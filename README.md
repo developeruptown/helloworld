@@ -27,7 +27,7 @@ developeruptown/
 Via Composer
 
 ``` bash
-$ composer require :uptowndev/helloworld
+$ composer require uptowndev/helloworld
 ```
 
 ## Usage
