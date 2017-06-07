@@ -1,6 +1,6 @@
 {
     "name": "uptowndev/helloworld",
-    "version" : "0.1",
+    "version" : "0.10",
     "type": "library",
     "description": ":This is a test package created to learn about laravel package development. It will be deleted",
     "keywords": [
