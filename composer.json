@@ -1,5 +1,5 @@
 {
-    "name": "UptownDev/HelloWorld",
+    "name": "uptowndev/helloworld",
     "type": "library",
     "description": ":This is a test package created to learn about laravel package development. It will be deleted",
     "keywords": [
