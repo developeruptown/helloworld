@@ -2,7 +2,7 @@
     "name": "uptowndev/helloworld",
     "version" : "0.10",
     "type": "library",
-    "description": ":This is a test package created to learn about laravel package development. It will be deleted. testing the package create cycle aka development workflow",
+    "description": "This is a test package created to learn about laravel package development. It will be deleted. testing the package create cycle aka development workflow",
     "keywords": [
         "UptownDev",
         "HelloWorld"
@@ -11,7 +11,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": ":Saad Siddiqui",
+            "name": "Saad Siddiqui",
             "email": "developeruptown@gmail.com",
             "homepage": "https://github.com/developeruptown/",
             "role": "Developer"
